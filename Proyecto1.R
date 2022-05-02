@@ -149,5 +149,3 @@ print.data.frame(cancion_selec)
 
 print("Playlist de canciones similares: ")
 print.data.frame(playlist)
-
-print.data.frame(playlist)
